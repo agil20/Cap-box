@@ -1,0 +1,37 @@
+.container .row {
+    margin-left: 40%;
+    margin-top: 5%;
+    border: ridge 10px;
+    width: 380px;
+    height: 560px;
+
+}
+
+.container .row .header img {
+    margin-bottom: 25px;
+    width: 380px;
+}
+
+.container .row .body,
+.footer {
+    margin-left: 25px;
+    width: 300px;
+}
+
+.container .row .body .opacity {
+    opacity: 0.5;
+}
+
+
+
+.container .row .body .content {
+    font-size: 18px;
+    color: rgb(175, 175, 154);
+}
+
+.container .row .body .date {
+    margin-right: 20px;
+
+
+
+}
